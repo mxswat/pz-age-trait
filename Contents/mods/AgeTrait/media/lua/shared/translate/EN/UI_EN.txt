@@ -1,0 +1,10 @@
+UI_EN = {
+    UI_trait_Age30 = Age 30,
+    UI_trait_Age40 = Age 40,
+    UI_trait_Age50 = Age 50,
+    UI_trait_Age60 = Age 60,
+    UI_trait_Age30desc = "When you start the game you will gain +1 to all your skills with a level above or equal to 1",
+    UI_trait_Age40desc = "When you start the game you will gain +2 to all your skills with a level above or equal to 1",
+    UI_trait_Age50desc = "When you start the game you will gain +3 to all your skills with a level above or equal to 1",
+    UI_trait_Age60desc = "When you start the game you will gain +4 to all your skills with a level above or equal to 1",
+}
