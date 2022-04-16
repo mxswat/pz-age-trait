@@ -7,6 +7,7 @@ function MxIndexOf(array, value)
     return nil
 end
 
+-- Sidenote the font used for the pngs is Bahnschrift at 18pt
 local AGES = {
     30,
     40,
@@ -33,7 +34,6 @@ local function Age_Init(age)
         end
     end
 end
-
 
 for i, age in ipairs(AGES) do
     -- Exclude code credits to Fenris_Wolf https://discord.com/channels/136501320340209664/232196827577974784/964694443460530196
