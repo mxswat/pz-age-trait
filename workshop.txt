@@ -1,6 +1,15 @@
 version=1
-id=
+id=2796508003
 title=Age Traits
+description=This mod introduces 4 new traits
 description=
-tags=Build 41;Traits;Weapons
+description=Traits are
+description=- Age 30
+description=- Age 40
+description=- Age 50
+description=- Age 60
+description=
+description=When you start the game you will gain depending on the age you picked you will receive +1 or +2 or +3 or +4 to all your skills with a level above or equal to 1
+description=And -1 or -2 or -3 or -4 fitness
+tags=Build 41;Misc;Multiplayer;Pop Culture;Realistic;Traits
 visibility=public
